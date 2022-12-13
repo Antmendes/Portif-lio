@@ -14,11 +14,17 @@
 
     <link rel="stylesheet" href="/assets/css/global.css">
     <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/acordeon.css">
+    <link rel="stylesheet" href="/assets/css/languages.css">
+    <link rel="stylesheet" href="/assets/css/portfolio.css">
+    <link rel="stylesheet" href="/assets/css/education.css">
+    <link rel="stylesheet" href="/assets/css/curso.css">
+    <link rel="stylesheet" href="/assets/css/skills.css">
 
     <script src="https://kit.fontawesome.com/81852db596.js" crossorigin="anonymous"></script>
 </head>
 <body>
- <div class="main">
+ <main class="main">
     <header class="header">
         <img src="/assets/img/profile-pic-otimizada.png" alt="Foto de Antonio Mendes" class="photo">
        
@@ -27,10 +33,134 @@
              Antonio Mendes</h1>
         <div class="information">   
            <p><i class="fa-solid fa-user"></i> Web Developer</p>
-           <p><i class="fa-brands fa-whatsapp"></i>(24) 9 9301-2094</p>
-           <p><i class="fa-solid fa-envelope"></i>antoniomendesjunior02@gmail.com</p>
+           <p><i class="fa-brands fa-whatsapp"></i><a href="tel:(24) 9 9301-2094">(24) 9 9301-2094</a></p>
+           <p><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/antoniomend/" target="_blank">LinkedIn</a></p>
+           <p><i class="fa-solid fa-envelope"></i><a href="mailto:ex@mail.com">antoniomendesjunior02@gmail.com</a></p>
         </div>
     </header>
- </div>
+
+    <section class="acordeon open">
+        <button class="trigger" type="button">
+            <h2>Skills</h2> 
+        </button>
+        <div class="content">
+            <div class="skills">
+              <section class="tools">
+                <h3>Hard Skills:</h3>
+                <ul>
+                    <li>
+                        <img src="/assets/img/angular.svg" alt="Angular" title="Angular">
+                    </li>
+                    <li>
+                        <img src="/assets/img/javascript.svg" alt="Angular" title="Angular">
+                    </li>
+                    <li>
+                        <img src="/assets/img/java.svg" alt="Angular" title="Angular">
+                    </li>
+                    <li>
+                        <img src="/assets/img/node.svg" alt="Angular" title="Angular">
+                    </li>
+                </ul>
+              </section>
+              <section class="soft">
+                <h3>Soft Skills:</h3>
+                <ul>
+                    <li>Adaptabilidade</li>
+                    <li>Inteligência Emocional</li>
+                    <li>Analítico</li>
+                    <li>Proativo</li>
+                    <li>Foco em resultado</li>
+                    <li>Facilidade de comunicação e trabalho em equipe</li>
+                </ul>
+              </section>
+            </div>
+           
+           
+        </div>
+      </section>
+
+    <section class="acordeon">
+      <button class="trigger" type="button">
+          <h2>Idiomas</h2> 
+      </button>
+      <div class="content">
+         <ul class="languages">
+            <li>Português(BR)</li>
+            <li>Inglês (básico/intermediário)</li>
+         </ul>
+      </div>
+    </section>
+
+    <section class="acordeon">
+        <button class="trigger" type="button">
+            <h2>Formação</h2> 
+        </button>
+        <div class="content">
+           <ul class="education">
+              <li>
+                <h3 class="title">Universidade de Vassouras</h3>
+                <h5>Análise e desenvolvimento de sistemas</h5>
+                <p class="period">Out 2022 - Current</p>
+              </li>
+           </ul>
+        </div>
+      </section>
+
+      <section class="acordeon">
+        <button class="trigger" type="button">
+            <h2>Cursos</h2> 
+        </button>
+        <div class="content">
+           <ul class="curso">
+              <li>
+                <h3 class="title">Digital Innovation One</h3>
+                <h5>Formação Javascript - 40 horas</h5>
+                <p class="period">Nov 2022 - Dez 2022</p>
+              </li>
+              <li>
+                <h3 class="title">Cod3r/Udemy</h3>
+                <h5>Curso Web completo Javascript - 97 horas</h5>
+                <p class="period">Jan 2022 - Mai 2022</p>
+              </li>
+              <li>
+                <h3 class="title">Digital Innovation One</h3>
+                <h5>Santander bootcamp Fullstack - 120 horas</h5>
+                <p class="period">Mai 2022 - Jun 2022</p>
+              </li>
+              <li>
+                <h3 class="title">SoulCode Academy</h3>
+                <h5>Java Fullstack - 640 horas</h5>
+                <p class="period">Jan 2022 - Mai 2022</p>
+              </li>
+           </ul>
+        </div>
+      </section>
+
+    <section class="acordeon">
+        <button class="trigger" type="button">
+           <h2>Portfólio</h2>  
+        </button>
+        <div class="content">
+           <ul class="portfolio">
+            <li>
+                <h3 class="title github">Criando um App de lembrete</h3>
+                <a href="https://www.google.com" target="_blank">www.google.com</a>
+            </li>
+            <li>
+                <h3 class="title github">Criando um App de lembrete</h3>
+                <a href="https://www.google.com" target="_blank">www.google.com</a>
+            </li>
+            <li>
+                <h3 class="title github">Criando um App de lembrete</h3>
+                <a href="https://www.google.com" target="_blank">www.google.com</a>
+            </li>
+           </ul>
+        </div>
+      </section>
+
+    
+ </main>
+
+ <script src="/assets/js/acordeon.js"></script>
 </body>
 </html>

@@ -41,14 +41,15 @@
     flex-direction: row;
     align-items: center;
     margin: .5rem;
-   font-size: 1rem;
+   font-size: .8rem;
    
   
 
 }
 
+
 .information p i{
-    color: rgb(71, 5, 176);
+    color: #fff;
     width: 24px;
     height: 24px;
     display: flex;
