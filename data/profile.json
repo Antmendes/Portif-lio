@@ -1,6 +1,6 @@
 {
     "name": "Antonio Mendes",
-    "photo": "/assets/img/My project-1 (3).png",
+    "photo": "https://github.com/Antmendes/Portif-lio/blob/main/data/img/My%20project-1%20(3).png",
     "job": "Web Developer",
     "phone": "(24) 9 9301-2094",
     "social": "LinkedIn",
@@ -9,47 +9,47 @@
       "hardSkills": [
         {
           "name": "Angular",
-          "logo": "/assets/img/angular.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/angular.svg"
         },
         {
           "name": "Javascript",
-          "logo": "/assets/img/javascript.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/javascript.svg"
         },
         {
           "name": "Typescript",
-          "logo": "/assets/img/typescript.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/typescript.svg"
         },
         {
           "name": "NodeJs",
-          "logo": "/assets/img/node.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/node.svg"
         },
         {
           "name": "PostgreSql",
-          "logo": "/assets/img/postgresql.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/postgresql.svg"
         },
         {
           "name": "Bootstrap",
-          "logo": "/assets/img/bootstrap.svg"
+          "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/bootstrap.svg"
         },
         {
             "name": "Html",
-            "logo": "/assets/img/html.svg"
+            "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/html.svg"
         },
         {
             "name": "Css",
-            "logo": "/assets/img/css.svg"
+            "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/css.svg"
         },
         {
             "name": "MongoDB",
-            "logo": "/assets/img/mongo.svg"
+            "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/mongo.svg"
         },
         {
             "name": "Java",
-            "logo": "/assets/img/java.svg"
+            "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/java.svg"
         },
         {
             "name": "Springboot",
-            "logo": "/assets/img/spring.svg"
+            "logo": "https://raw.githubusercontent.com/Antmendes/Portif-lio/main/data/img/spring.svg"
         }
         
       ],
