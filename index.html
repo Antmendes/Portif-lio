@@ -26,16 +26,17 @@
 <body>
  <main class="main">
     <header class="header">
-        <img src="/assets/img/My project-1 (3).png" alt="Foto de Antonio Mendes" class="photo">
+        <img src="/assets/img/My project-1 (3).png" alt="Foto de Perfil" class="photo " id="profile.photo">
        
         <h1 class="title">Olá,<br>
              eu sou o <br>
-             Antonio Mendes</h1>
+            <span id="profile.name"> Antonio Mendes</span>
+          </h1>
         <div class="information">   
-           <p><i class="fa-solid fa-user"></i> Web Developer</p>
-           <p><i class="fa-brands fa-whatsapp"></i><a href="tel:(24) 9 9301-2094">(24) 9 9301-2094</a></p>
-           <p><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/antoniomend/" target="_blank">LinkedIn</a></p>
-           <p><i class="fa-solid fa-envelope"></i><a href="mailto:ex@mail.com">antoniomendesjunior02@gmail.com</a></p>
+           <p ><i class="fa-solid fa-user"><span id="profile.job"></span></i></p>
+           <p ><i class="fa-brands fa-whatsapp"></i><a href="tel:(24) 9 9301-2094" id="profile.phone"></a></p>
+           <p><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/antoniomend/" target="_blank" id="profile.social"></a></p>
+           <p><i class="fa-solid fa-envelope"></i><a href="mailto:ex@mail.com" id="profile.email"></a></p>
         </div>
     </header>
 
@@ -87,13 +88,8 @@
               </section>
               <section class="soft">
                 <h3>Soft Skills:</h3>
-                <ul>
-                    <li>Adaptabilidade</li>
-                    <li>Inteligência Emocional</li>
-                    <li>Analítico</li>
-                    <li>Proativo</li>
-                    <li>Foco em resultado</li>
-                    <li>Facilidade de comunicação e trabalho em equipe</li>
+                <ul id="profile.skills.softSkills">
+                    
                 </ul>
               </section>
             </div>
@@ -196,5 +192,7 @@
  </main>
 
  <script src="/assets/js/acordeon.js"></script>
+ <script src="/assets/js/api.js"></script>
+ <script src="/assets/js/main.js"></script>
 </body>
 </html>
