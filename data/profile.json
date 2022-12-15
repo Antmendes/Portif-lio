@@ -1,0 +1,120 @@
+{
+    "name": "Antonio Mendes",
+    "photo": "/assets/img/My project-1 (3).png",
+    "job": "Web Developer",
+    "phone": "(24) 9 9301-2094",
+    "social": "LinkedIn",
+    "email": "antoniomendesjunior02@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Angular",
+          "logo": "/assets/img/angular.svg"
+        },
+        {
+          "name": "Javascript",
+          "logo": "/assets/img/javascript.svg"
+        },
+        {
+          "name": "Typescript",
+          "logo": "/assets/img/typescript.svg"
+        },
+        {
+          "name": "NodeJs",
+          "logo": "/assets/img/node.svg"
+        },
+        {
+          "name": "PostgreSql",
+          "logo": "/assets/img/postgresql.svg"
+        },
+        {
+          "name": "Bootstrap",
+          "logo": "/assets/img/bootstrap.svg"
+        },
+        {
+            "name": "Html",
+            "logo": "/assets/img/html.svg"
+        },
+        {
+            "name": "Css",
+            "logo": "/assets/img/css.svg"
+        },
+        {
+            "name": "MongoDB",
+            "logo": "/assets/img/mongo.svg"
+        },
+        {
+            "name": "Java",
+            "logo": "/assets/img/java.svg"
+        },
+        {
+            "name": "Springboot",
+            "logo": "/assets/img/spring.svg"
+        }
+        
+      ],
+      "softSkills": [
+        "Adaptabilidade",
+        "Inteligência Emocional",
+        "Analítico",
+        "Proativo",
+        "Foco em resultado",
+        "Facilidade de comunicação e trabalho em equipe"
+      ]
+    },
+    "education":[
+        {
+            "school": "Universidade de Vassouras",
+            "curso": "Análise e desenvolvimento de sistemas",
+            "period": "Out 2022 - Até o momento"
+        }
+    ],
+    "cursos": [
+        {
+          "name": "Digital Innovation One",
+          "description": "Formação Javascript - 40 horas",
+          "period": "Nov 2022 - Dez 2022"
+        },
+        {
+          "name": "Cod3r/Udemy",
+          "description": "Curso Web completo Javascript - 97 horas",
+          "period": "Ago 2022 - Set 2022"
+        },
+        {
+          "name": "Digital Innovation One",
+          "description": "Santander bootcamp Fullstack - 120 horas",
+          "period": "Mai 2022 - Jun 2022"
+        },
+        {
+          "name": "SoulCode Academy",
+          "description": "Java Fullstack - 640 horas",
+          "period": "Jan 2022 - Mai 2022"
+        }
+      ],
+    "language": [
+      "Português (BR)",
+      "Inglês (básico/intermediário)"
+     
+    ],
+    "portfolio": [
+      {
+        "name": "Criando um App de lembrete",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "githubUrl": "https://www.google.com",
+        "siteUrl": "https://www.google.com"
+      },
+      {
+        "name": "Criando um App de lembrete",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "githubUrl": "https://www.google.com",
+        "siteUrl": "https://www.google.com"
+      },
+      {
+        "name": "Criando um App de lembrete",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "githubUrl": "https://www.google.com",
+        "siteUrl":"https://www.google.com"
+      }
+    ]
+   
+  }

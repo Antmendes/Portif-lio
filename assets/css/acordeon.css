@@ -49,10 +49,11 @@
     background-size: contain;
     background-image: url('/assets/img/arrow.svg');
     transition: .25s;
+    transform: rotate(180deg);
 }
 
 .acordeon.open .trigger::after{
-    transform: rotate(180deg);
+    transform: rotate(360deg);
     
 }
 
