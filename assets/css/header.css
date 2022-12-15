@@ -41,7 +41,7 @@
     flex-direction: row;
     align-items: center;
     margin: .5rem;
-   font-size: .8rem;
+   font-size: .9rem;
    
   
 
@@ -50,8 +50,8 @@
 
 .information p i{
     color: #fff;
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
     display: flex;
     align-items: center;
 }
