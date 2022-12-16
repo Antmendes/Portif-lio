@@ -7,11 +7,14 @@
     width: 100%;
     margin: 1rem 0;
     transition: .25s;
+    
+    
 }
 .acordeon.open,
 .acordeon:hover{
     background-color: #55569e;
     border-color: #55569e;
+    
 }
 
 

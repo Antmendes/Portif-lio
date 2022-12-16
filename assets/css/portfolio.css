@@ -14,7 +14,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin: 1rem 0;
+    margin: .5rem ;
 }
 
 .portfolio li .title{
@@ -35,6 +35,8 @@
     align-items: flex-start;
     justify-content: flex-start;
     flex-wrap: wrap;
+    font-size: .85rem;
+   
 }
 
 .portfolio .link a i{
