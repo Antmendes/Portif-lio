@@ -98,25 +98,25 @@
     ],
     "portfolio": [
       {
-        "name": "Criando um App de lembrete",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
-        "tecnology": "Angular, typescript",
-        "githubUrl": "https://www.google.com",
-        "siteUrl": "https://www.google.com"
+        "name": "Job-Application",
+        "description": "ToDo desenvolvido para uso pessoal, com cadastro da candidatura, listagem e exclusão, utilizando o localStorage para armazenamento de dados, com design responsivo",
+        "tecnology": "Angular, typescript, Html, Css, LocalStorage",
+        "githubUrl": "https://github.com/Antmendes/jobApplication",
+        "siteUrl": " https://job-application-dev-antonio.netlify.app/"
       },
       {
-        "name": "Criando um App de lembrete",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
-        "tecnology": "Angular, typescript",
-        "githubUrl": "https://www.google.com",
-        "siteUrl": "https://www.google.com"
+        "name": "Pokedex",
+        "description": "Pokedex simples da primeira geração de pokemons, consumo da api PokeApi através do fetch Api, design responsivo",
+        "tecnology": "Html, Css, javascript",
+        "githubUrl": "https://github.com/Antmendes/Pokedex",
+        "siteUrl": " https://pokedex-firstgeneration.netlify.app/"
       },
       {
-        "name": "Criando um App de lembrete",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
-        "tecnology": "Angular, typescript",
-        "githubUrl": "https://www.google.com",
-        "siteUrl":"https://www.google.com"
+        "name": "Snake-Game",
+        "description": "Famoso jogo da cobrinha desenvolvido com javascript",
+        "tecnology": "Html, Css, Javascript",
+        "githubUrl": "https://github.com/Antmendes/Snake-Game",
+        "siteUrl":"https://snake-game-dev-antoniomendes.netlify.app/"
       }
     ]
    

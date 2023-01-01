@@ -46,7 +46,7 @@ function updatePortfolio(profileData){
         <li>
         <h3 class="title ">${project.name}</h3>
         <p>${project.description}</p>
-        <p>${project.tecnology}</p>
+        <p class="tecnology">Tecnologias utilizadas: ${project.tecnology}</p>
        <div class="link">
         <a href="${project.githubUrl}" target="_blank"><i class="fa-brands fa-github"></i>GitHub</a>
         <a href="${project.siteUrl}" target="_blank"><i class="fa-solid fa-link"></i>Site</a>
