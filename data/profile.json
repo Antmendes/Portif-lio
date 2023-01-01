@@ -100,18 +100,21 @@
       {
         "name": "Criando um App de lembrete",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "tecnology": "Angular, typescript",
         "githubUrl": "https://www.google.com",
         "siteUrl": "https://www.google.com"
       },
       {
         "name": "Criando um App de lembrete",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "tecnology": "Angular, typescript",
         "githubUrl": "https://www.google.com",
         "siteUrl": "https://www.google.com"
       },
       {
         "name": "Criando um App de lembrete",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem laudantium sequi quis ullam reprehenderit fugit fugiat, optio non voluptas excepturi facere nobis et repellendus ad voluptatem. Possimus veniam mollitia aut!",
+        "tecnology": "Angular, typescript",
         "githubUrl": "https://www.google.com",
         "siteUrl":"https://www.google.com"
       }
