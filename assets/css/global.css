@@ -31,7 +31,7 @@ a:hover{
 
 .main::before{
     content: '';
-    background-image: url("assets/background.svg");
+    background-image: url("/assets/background.svg");
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -45,7 +45,7 @@ a:hover{
 
 .main::after{
     content: '';
-    background-image: url("assets/background.svg");
+    background-image: url("/assets/background.svg");
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
