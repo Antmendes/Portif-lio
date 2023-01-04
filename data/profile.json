@@ -105,7 +105,7 @@
         "siteUrl": " https://job-application-dev-antonio.netlify.app/"
       },
         {
-        "name": "Pokedex",
+        "name": "Store-App",
         "description": "front-end de um e-comerce, desenvolvido com angular com página de produtos,detalhes dos produtos, carrinho de compras, contatos, utilizando json-server como back-end",
         "tecnology": "Angular, Typescript, Html, Css",
         "githubUrl": "https://github.com/Antmendes/store-app",
