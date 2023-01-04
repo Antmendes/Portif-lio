@@ -104,6 +104,13 @@
         "githubUrl": "https://github.com/Antmendes/jobApplication",
         "siteUrl": " https://job-application-dev-antonio.netlify.app/"
       },
+        {
+        "name": "Pokedex",
+        "description": "front-end de um e-comerce, desenvolvido com angular com página de produtos,detalhes dos produtos, carrinho de compras, contatos, utilizando json-server como back-end",
+        "tecnology": "Angular, Typescript, Html, Css",
+        "githubUrl": "https://github.com/Antmendes/store-app",
+        "siteUrl": " https://store-app-antonio-mendes.netlify.app/"
+      },
       {
         "name": "Pokedex",
         "description": "Pokedex simples da primeira geração de pokemons, consumo da api PokeApi através do fetch Api, design responsivo",
